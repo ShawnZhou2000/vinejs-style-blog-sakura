@@ -1,0 +1,13 @@
+.blog-core__side {
+  background: #ffe5e5!important;
+}
+
+.blog-core__blog-list-container {
+  background: url('./sakura.png');
+  background-repeat: repeat;
+  background-size: 3rem;
+}
+
+.blog-core__card {
+  background: rgba(255, 255, 255, .75);
+}
